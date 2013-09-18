@@ -1,4 +1,3 @@
-
 import java.io.File;
 import java.math.BigInteger;
 import java.util.Date;
@@ -19,7 +18,7 @@ import org.apache.xmlbeans.XmlString;
 import org.w3c.dom.Node;
 
 /**
- * @author By Alberto Alvarado: 
+ * @author Alberto Alvarado: 
  * 
  * Execute an specific XQyery transformation using the same engine used by Oracle OSB.
  */
