@@ -1,0 +1,22 @@
+<NewXML>
+  <BookTitle>
+    <Creator>Jane Austen</Creator>
+    <YearPublished>1813</YearPublished>
+    <OriginalTitle>Pride and Prejudice</OriginalTitle>
+  </BookTitle>
+  <BookTitle>
+    <Creator>Frances Hodgson Burnett</Creator>
+    <YearPublished>1910</YearPublished>
+    <OriginalTitle>The Secret Garden</OriginalTitle>
+  </BookTitle>
+  <BookTitle>
+    <Creator>Arthur Conan Doyle</Creator>
+    <YearPublished>1892</YearPublished>
+    <OriginalTitle>Adventures of Sherlock Holmes</OriginalTitle>
+  </BookTitle>
+  <SampleString>Test String</SampleString>
+  <SampleInteger>150</SampleInteger>
+  <SampleDouble>355.69</SampleDouble>
+  <SampleBool>true</SampleBool>
+  <SampleDate>1970-03-11T16:00:00-08:00</SampleDate>
+</NewXML>
